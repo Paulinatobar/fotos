@@ -1,38 +1,55 @@
-FOTITOSSS
-
-yo
-![yo](https://github.com/user-attachments/assets/b2df2d59-d73b-4d26-97aa-03969f9b5217)
-
-ayudantías
-![ayudantías](https://github.com/user-attachments/assets/d37a1fe9-9c4b-48cf-86e8-a3aa06d392c3)
-
-pasantía-the bridge
-![pasantía](https://github.com/user-attachments/assets/5b41ed88-0f44-4d32-a143-41a1f9307046)
-
-pauli_lectora, proyecto personal:
-![pauli-lectora](https://github.com/user-attachments/assets/deb0d8ef-7e89-4b44-868a-9d7a20e168d7)
-
-canción sin miedo, TM1
-![cancion sin miedo](https://github.com/user-attachments/assets/794da6b7-2108-47f9-b080-05150abfd3d4)
-
-book, taller 4
-![book](https://github.com/user-attachments/assets/b7baaceb-345b-4ad4-85d4-ad47c00e06eb)
-
-huesitos, taller 4:
-![huesitos](https://github.com/user-attachments/assets/9ec5ee95-3f3e-4785-a8ff-8c885f23a9b0)
-
-menstruación digna, taller 4:
-![menstruación digna](https://github.com/user-attachments/assets/ef8aabf0-26f2-459f-a3bd-bec9d076be2e)
-
-go, taller 3
-![go](https://github.com/user-attachments/assets/957c853e-bd3d-4edc-9820-02676ab65396)
-
-everlast, consultoría
-![everlast](https://github.com/user-attachments/assets/6f9ffeeb-f533-49e7-be24-c4e301bcfbfc)
-
-muni macul, consultoría
-![muni macul](https://github.com/user-attachments/assets/c97a98f3-b087-4610-9b1c-10c9795a206e)
 
 
 
+
+![yo](https://github.com/user-attachments/assets/11b2f349-ef78-499b-87d2-eb93893ced8c)
+![velador](https://github.com/user-attachments/assets/64c7cf94-3a7e-4c73-9aad-9c9f98fda0b5)
+![pauli-lectora](https://github.com/user-attachments/assets/cee2a340-61eb-42df-a4c1-54b551aeb4fb)
+
+![pasantía](https://github.com/user-attachments/assets/b0a68d71-0048-406b-a39b-6456c1f02d8d)
+
+![muni macul](https://github.com/user-attachments/assets/6ed7f116-22ce-44e4-a328-cbc5d4936ce1)
+
+![menstruación digna](https://github.com/user-attachments/assets/8ee2589d-998e-4280-8739-99bbab31a67c)
+
+![huesitos](https://github.com/user-attachments/assets/82b4c273-bd10-48b9-a68f-3423c879acba)
+
+![go](https://github.com/user-attachments/assets/ab3afeb1-4f3e-4f99-baf4-f9f15395daee)
+
+![everlast](https://github.com/user-attachments/assets/288cdc07-6d9c-4df8-949f-3e1ac9ed4d16)
+
+![cancion sin miedo](https://github.com/user-attachments/assets/e1e63718-1e60-4e00-953b-6e208e64f91c)
+
+![book](https://github.com/user-attachments/assets/f2f40f9b-f746-4bf0-8af3-d6a39bd41461)
+
+![ayudantías](https://github.com/user-attachments/assets/c5fcec36-0838-4db5-8213-d66ead46b41b)
+
+![afiche](https://github.com/user-attachments/assets/c3defd7d-c879-4197-9e6e-1b11f84137fd)
+
+
+COLLAGEEEE
+
+
+![velador1](https://github.com/user-attachments/assets/d53f59a1-1a19-453e-87e5-a1238c8746cb)
+
+![pauli-lectora  1png](https://github.com/user-attachments/assets/11947de2-a29e-460c-b799-6471f0514dac)
+
+![pasantía 1](https://github.com/user-attachments/assets/be362810-b651-425c-af44-304ab7abd703)
+
+![muni macul 1](https://github.com/user-attachments/assets/db80fc03-d168-4bae-a777-62d5ce2274cc)
+
+![menstruación digna 1](https://github.com/user-attachments/assets/358bc647-db82-46c7-a739-919163de9af7)
+
+![huesitos 1](https://github.com/user-attachments/assets/d8a11c56-2461-4c4b-96dd-c40dc76362c0)
+
+![go 1](https://github.com/user-attachments/assets/4352041f-0e3a-4e1a-8cc3-3f58f3c7437e)
+![everlast 1](https://github.com/user-attachments/assets/94f05c94-6d29-4eef-a6ca-984bfeb11335)
+
+![cancion sin miedo 1](https://github.com/user-attachments/assets/52fbe527-ad2b-424a-96c6-dcd7dfcd2b36)
+
+![book 1](https://github.com/user-attachments/assets/d72d52bb-df50-40e3-8999-303b403176a1)
+
+![ayudantías1](https://github.com/user-attachments/assets/68bda4be-3c15-43b8-883c-18c197a7b1a6)
+
+![afiche 1](https://github.com/user-attachments/assets/32032432-529e-4f51-858e-9fe733164d86)
 
